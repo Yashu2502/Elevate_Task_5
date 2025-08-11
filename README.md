@@ -1,5 +1,4 @@
-# Elevate_Task_5
-# Task 5 - Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
 
 ## Missing Value Handling
 - **Numerical columns:** Missing values were replaced with the median to avoid the influence of outliers.
